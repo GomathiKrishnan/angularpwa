@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1679319987133,
-  "index": "/index.html",
+  "timestamp": 1679320865551,
+  "index": "https://GomathiKrishnan.github.io/angularpwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.f5c6676848ee1641.js",
-        "/manifest.webmanifest",
-        "/polyfills.d65009e6fb871040.js",
-        "/runtime.3df4e9be3edb74a0.js",
-        "/styles.ef46db3751d8e999.css"
+        "https://GomathiKrishnan.github.io/angularpwa/favicon.ico",
+        "https://GomathiKrishnan.github.io/angularpwa/index.html",
+        "https://GomathiKrishnan.github.io/angularpwa/main.f5c6676848ee1641.js",
+        "https://GomathiKrishnan.github.io/angularpwa/manifest.webmanifest",
+        "https://GomathiKrishnan.github.io/angularpwa/polyfills.d65009e6fb871040.js",
+        "https://GomathiKrishnan.github.io/angularpwa/runtime.3df4e9be3edb74a0.js",
+        "https://GomathiKrishnan.github.io/angularpwa/styles.ef46db3751d8e999.css"
       ],
       "patterns": []
     },
@@ -29,35 +29,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-128x128.png",
+        "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-144x144.png",
+        "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-152x152.png",
+        "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-192x192.png",
+        "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-384x384.png",
+        "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-512x512.png",
+        "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-72x72.png",
+        "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "68183c5e3b8addd8f4815a114caa50653534addf",
-    "/main.f5c6676848ee1641.js": "5727b4fb980deec5567661526c5fde7117a23448",
-    "/manifest.webmanifest": "bd8629551ce8c28f7864292f489d75f761717865",
-    "/polyfills.d65009e6fb871040.js": "63d83178e9b1e8c6fefebde226e7ab243a77bc30",
-    "/runtime.3df4e9be3edb74a0.js": "ed078f1fe2db7b0e2036224480729bc94f7e7d46",
-    "/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://GomathiKrishnan.github.io/angularpwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://GomathiKrishnan.github.io/angularpwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://GomathiKrishnan.github.io/angularpwa/index.html": "29843a4aba71d806a78d4c92fd415d23c79ccbde",
+    "https://GomathiKrishnan.github.io/angularpwa/main.f5c6676848ee1641.js": "5727b4fb980deec5567661526c5fde7117a23448",
+    "https://GomathiKrishnan.github.io/angularpwa/manifest.webmanifest": "bd8629551ce8c28f7864292f489d75f761717865",
+    "https://GomathiKrishnan.github.io/angularpwa/polyfills.d65009e6fb871040.js": "63d83178e9b1e8c6fefebde226e7ab243a77bc30",
+    "https://GomathiKrishnan.github.io/angularpwa/runtime.3df4e9be3edb74a0.js": "ed078f1fe2db7b0e2036224480729bc94f7e7d46",
+    "https://GomathiKrishnan.github.io/angularpwa/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
     {
